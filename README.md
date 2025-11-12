@@ -29,6 +29,7 @@ Include the commands used in the Experiment.
 <img width="1918" height="991" alt="Screenshot 2025-11-12 153019" src="https://github.com/user-attachments/assets/b3d02c67-6cdc-4f48-b49f-1ea4ac8e4b92" />
 
 ## RESULT
+The AWS account was successfully created, with set up for the root user . Additionally, an IAM user was created with specified permissions, allowing for secure, controlled access to AWS resources without the use of the root account.
  
 
   
